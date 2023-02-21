@@ -6,7 +6,7 @@
 📫 How to reach me **Mostafa.ashraff13@gmail.com**
 
 <div align="right">
-  <img height="200" src="https://raw.githubusercontent.com/NadaAlaaEldeen/NadaAlaaEldeen/main/README%20picture/54c03e32134dac515097ca7151a26cf1.gif"  />
+  <img height="300" src="https://raw.githubusercontent.com/NadaAlaaEldeen/NadaAlaaEldeen/main/README%20picture/54c03e32134dac515097ca7151a26cf1.gif"  />
 </div>
 
 
