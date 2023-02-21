@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack Web developer</h3>
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/NadaAlaaEldeen/NadaAlaaEldeen/main/README%20picture/software-developer-coding-on-pc-5690697-4753660.png"  />
+  <img height="200" src="[https://raw.githubusercontent.com/NadaAlaaEldeen/NadaAlaaEldeen/main/README%20picture/software-developer-coding-on-pc-5690697-4753660.png](https://raw.githubusercontent.com/NadaAlaaEldeen/NadaAlaaEldeen/main/README%20picture/54c03e32134dac515097ca7151a26cf1.gif)"  />
 </div>
  
 📫 How to reach me **Mostafa.ashraff13@gmail.com**
