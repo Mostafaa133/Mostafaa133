@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Ashraf</h1>
 <h2 align="center">A Passionate FullStack Web Developer</h2>
 
----
 [![](https://visitcount.itsvg.in/api?id=Mostafaa133&icon=5&color=4)](https://visitcount.itsvg.in)
 
 📫 How to reach me **Mostafa.ashraff13@gmail.com**
