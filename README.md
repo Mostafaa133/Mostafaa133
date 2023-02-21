@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa Ashraf</h1>
-<h3 align="center">A passionate fullstack Web developer</h3>
+<h2 align="center">A Passionate FullStack Web Developer</h2>
 
-<div align="center">
+<div align="right">
   <img height="200" src="https://raw.githubusercontent.com/NadaAlaaEldeen/NadaAlaaEldeen/main/README%20picture/54c03e32134dac515097ca7151a26cf1.gif"  />
 </div>
  
@@ -19,7 +19,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
