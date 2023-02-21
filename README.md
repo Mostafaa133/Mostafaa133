@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mostafa Ashraf</h1>
 <h2 align="center">A Passionate FullStack Web Developer</h2>
 
-**[![](https://visitcount.itsvg.in/api?id=Mostafaa133&icon=5&color=4)](https://visitcount.itsvg.in)**
+[![](https://visitcount.itsvg.in/api?id=Mostafaa133&icon=5&color=4)](https://visitcount.itsvg.in)
 
-<div align="right">
-  <img height="200" src="https://raw.githubusercontent.com/NadaAlaaEldeen/NadaAlaaEldeen/main/README%20picture/54c03e32134dac515097ca7151a26cf1.gif"  />
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/NadaAlaaEldeen/NadaAlaaEldeen/main/README%20picture/54c03e32134dac515097ca7151a26cf1.gif" />
 </div>
 
 📫 How to reach me **Mostafa.ashraff13@gmail.com**
