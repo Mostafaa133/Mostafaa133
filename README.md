@@ -2,9 +2,10 @@
 <h2 align="center">A Passionate FullStack Web Developer</h2>
 
 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Mostafaa133&icon=7&color=4)](https://visitcount.itsvg.in) </br> 
-<img height="300" src="https://raw.githubusercontent.com/NadaAlaaEldeen/NadaAlaaEldeen/main/README%20picture/54c03e32134dac515097ca7151a26cf1.gif" />
+<img align="right" height="300" src="https://raw.githubusercontent.com/NadaAlaaEldeen/NadaAlaaEldeen/main/README%20picture/54c03e32134dac515097ca7151a26cf1.gif" />
 
 -📫 How to reach me **Mostafa.ashraff13@gmail.com**
 
