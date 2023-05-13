@@ -2,9 +2,9 @@
 <h2 align="center", font-weight= "bold",font-family= "Arial, sans-serif">A Passionate FullStack Web Developer</h2>
 
 [![](https://visitcount.itsvg.in/api?id=Mostafaa133&icon=7&color=4)](https://visitcount.itsvg.in) 
-<img align="right" height="200" src="https://raw.githubusercontent.com/nadaalaaeldeen/nadaalaaeldeen/main/readme%20picture/54c03e32134dac515097ca7151a26cf1.gif" />
+<img align="right" height="200" src="https://komarev.com/ghpvc/?username=NadaAlaaEldeen&label=Profile%20views&color=0e75b6&style=flat" />
 
--📫 How to reach me ***Mostafa.ashraff13@gmail.com*** <a href="mailto: Mostafa.ashraff13@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-3.svg" alt="nada45200017@gmail.com" height="15" width="20" /></a>
+-📫 How to reach me ***Mostafa.ashraff13@gmail.com***
 
 
 ## 🌐 Socials:
