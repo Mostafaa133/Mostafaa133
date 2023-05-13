@@ -1,9 +1,31 @@
-<h1 align="center">Hi 👋, I'm Mostafa Ashraf</h1>
-<h2 align="center">A Passionate FullStack Web Developer</h2>
+<title>Mostafa Ashraf - FullStack Web Developer</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    h1, h2 {
+      color: #007bff;
+      font-weight: bold;
+    }
+    .container {
+      margin-top: 50px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h1>Hi 👋, I'm Mostafa Ashraf</h1>
+        <h2>A Passionate FullStack Web Developer</h2>
+      </div>
+    </div>
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
-
-
----
 [![](https://visitcount.itsvg.in/api?id=Mostafaa133&icon=7&color=4)](https://visitcount.itsvg.in) 
 <img align="right" height="200" src="https://raw.githubusercontent.com/NadaAlaaEldeen/NadaAlaaEldeen/main/README%20picture/54c03e32134dac515097ca7151a26cf1.gif" />
 
