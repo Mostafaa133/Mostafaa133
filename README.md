@@ -1,34 +1,6 @@
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Mostafa Ashraf - FullStack Web Developer</title>
-  <style>
-    body {
-      background-color: #f8f9fa;
-      font-family: Arial, sans-serif;
-    }
-    h1 {
-      color: #007bff;
-      font-size: 36px;
-      font-weight: bold;
-      text-align: center;
-      margin-top: 50px;
-    }
-    h2 {
-      color: #007bff;
-      font-size: 24px;
-      font-weight: bold;
-      text-align: center;
-      margin-top: 20px;
-    }
-  </style>
-</head>
-<body>
-  <h1>Hi 👋, I'm Mostafa Ashraf</h1>
-  <h2>A Passionate FullStack Web Developer</h2>
-</body>
-</html>
-
+<h1 style="color: #007bff; font-size: 36px; font-weight: bold; text-align: center; margin-top: 50px;">Hi 👋, I'm Mostafa Ashraf</h1>
+  <h2 style="color: #007bff; font-size: 24px; font-weight: bold; text-align: center; margin-top: 20px;">A Passionate FullStack Web Developer</h2>
+  
 [![](https://visitcount.itsvg.in/api?id=Mostafaa133&icon=7&color=4)](https://visitcount.itsvg.in) 
 <img align="right" height="200" src="https://raw.githubusercontent.com/NadaAlaaEldeen/NadaAlaaEldeen/main/README%20picture/54c03e32134dac515097ca7151a26cf1.gif" />
 
