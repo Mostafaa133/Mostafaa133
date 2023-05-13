@@ -1,13 +1,10 @@
 <h1 align="center", font-weight= "bold", font-family= "Arial, sans-serif">Hi 👋, I'm Mostafa Ashraf</h1> 
 <h2 align="center", font-weight= "bold",font-family= "Arial, sans-serif">A Passionate FullStack Web Developer</h2>
 
-  
 [![](https://visitcount.itsvg.in/api?id=Mostafaa133&icon=7&color=4)](https://visitcount.itsvg.in) 
 <img align="right" height="200" src="https://raw.githubusercontent.com/NadaAlaaEldeen/NadaAlaaEldeen/main/README%20picture/54c03e32134dac515097ca7151a26cf1.gif" />
 
-
 -📫 How to reach me **Mostafa.ashraff13@gmail.com**
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-ashraf-299059178/) 
