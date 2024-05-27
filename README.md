@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Mostafaa133&icon=7&color=4)](https://visitcount.itsvg.in)
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg5MTdjNDZiNDFiMzY2YzIzNmFiNGFkMWQ5NzJlYjNiNjNjNTNhYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QNFhOolVeCzPQ2Mx85/giphy.gif" >
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg5MTdjNDZiNDFiMzY2YzIzNmFiNGFkMWQ5NzJlYjNiNjNjNTNhYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QNFhOolVeCzPQ2Mx85/giphy.gif" >
 
 -📫 *How to reach me* ***Mostafa.ashraff13@gmail.com***
 <br>
@@ -27,8 +27,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mostafaa133&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mostafaa133&theme=gotham&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Mostafaa133&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafaa133&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
 
 ### ✍️ Random Dev Quote
