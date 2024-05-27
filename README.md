@@ -4,14 +4,10 @@
 [![](https://visitcount.itsvg.in/api?id=Mostafaa133&icon=7&color=4)](https://visitcount.itsvg.in)
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg5MTdjNDZiNDFiMzY2YzIzNmFiNGFkMWQ5NzJlYjNiNjNjNTNhYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QNFhOolVeCzPQ2Mx85/giphy.gif" >
-
 <br>
-
 -📫 *How to reach me* ***Mostafa.ashraff13@gmail.com***
 <br>
 -👨‍💻 *Check my portfolio* ***[https://my-portfolio-1d757.web.app/](https://my-portfolio-1d757.web.app/)***
-
-<br>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
