@@ -9,7 +9,6 @@
 <br>
 -👨‍💻 *Check my portfolio* ***[https://my-portfolio-1d757.web.app/](https://my-portfolio-1d757.web.app/)***
 
--------
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -30,7 +29,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mostafaa133&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mostafaa133&theme=gotham&hide_border=true)
-<-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafaa133&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact) />
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafaa133&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
