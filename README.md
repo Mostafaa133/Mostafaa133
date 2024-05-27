@@ -31,8 +31,10 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
 # 📊 GitHub Stats:
+<div style="display: flex; justify-content: space-between;">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mostafaa133&theme=gotham&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=Mostafaa133&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)
+  </div>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafaa133&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
 
 ### ✍️ Random Dev Quote
